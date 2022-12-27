@@ -1,0 +1,6 @@
+div {
+    border: 2px solid black;
+}
+div ul li{
+    border: inherit; /* Inherit = Herdar */
+}

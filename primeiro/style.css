@@ -1,0 +1,35 @@
+/* body {
+    background-image: url("https://wp.eucapacito.com.br/wp-content/uploads/2021/04/AdobeStock_241083104-scaled.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: purple;
+    font-size: 60px;
+    border: 2px dashed yellow;
+}
+
+li {
+    color: green;
+} */
+
+
+.yellow-text {
+    color: yellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+}
+
+.big-text {
+    font-size: 40px;
+}
+
+#europe {
+    font-size: 10px;
+    color: blue;
+}
+
+li {
+    color: grey;
+}
